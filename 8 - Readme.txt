@@ -1,0 +1,2 @@
+1. We only kept the first 1000 lines for file 1, in order to meet the size limit for files uploaded to Github. The full-size file is available upon request. 
+2. The serum samples were run on the Mass Spectrometer within a 4-month period. The "Batch" column in file 2 are "seudo-batches" with relatively equal number of samples over this period. "Actual run order" is the order within a reasigned batch. 
